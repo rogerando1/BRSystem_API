@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\coursetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\coursetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\transactionlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\transactionlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|c:\\users\\rra\\documents\\github\\brsystem_api\\brsystem_api\\brsystem_api\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BCEF23-2210-48CF-B9B3-F1DDFCD93475}|BRsystem_API\\BRsystem_API.csproj|solutionrelative:brsystem_api\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 226,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseTime.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\CourseTime.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\CourseTime.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\CourseTime.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\CourseTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:27:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\Courses.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Courses.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:26:26.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionLogs.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\TransactionLogs.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\TransactionLogs.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\TransactionLogs.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\TransactionLogs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:10:31.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Transaction.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\Transaction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:10:15.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Instructor.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:04:46.39Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddToCart.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\AddToCart.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\AddToCart.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\AddToCart.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\AddToCart.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:24:36.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parts.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Parts.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\Parts.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Parts.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\Parts.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:16:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Student.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\Student.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:38:50.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Product.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:14:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "BRsystem_API\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\RRA\\Documents\\GitHub\\BRSystem_API\\BRsystem_API\\BRsystem_API\\Models\\Staff.cs",
+              "RelativeToolTip": "BRsystem_API\\Models\\Staff.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:58:32.662Z",
+              "EditorCaption": ""
             }
           ]
         }

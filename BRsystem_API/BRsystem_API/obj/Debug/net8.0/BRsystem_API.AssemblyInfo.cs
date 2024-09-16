@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BRsystem_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1428b5c7ab76e4b134ede0f3e39a71243e9d5695")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce2a47c72635baa618e77e718e8dad5922da83f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BRsystem_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BRsystem_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
